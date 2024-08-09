@@ -1,5 +1,8 @@
 # operating-system
+
+here you will find 2 projects created by me for my class project in my 2nd year
 Operating-System-Mini-Project-ATM 
+FIRST COME FIRST SERVE  
 ATM Transaction using Shell Scripting
 
 OBJECTIVE: The prime objective of this mini-project is to enable the user perform various transaction operations based on the balance available in the user’s account. Other objectives may include:
