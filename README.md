@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🧠 Operating Systems Mini Projects
 
 Welcome! This repository contains two shell scripting mini-projects created as part of my 2nd-year Operating Systems coursework at Thapar University.
