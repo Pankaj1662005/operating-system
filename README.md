@@ -1,4 +1,3 @@
-
 # 🧠 Operating Systems Mini Projects
 
 Welcome! This repository contains two shell scripting mini-projects created as part of my 2nd-year Operating Systems coursework at Thapar University.
@@ -33,8 +32,6 @@ chmod +x atm.sh
 #### 📸 Screenshots
 
 ![ATM System](unnamed.png)
-![FCFS 1](fcfs.png)  
-![FCFS 2](fcfs2.png)
 
 ---
 
@@ -81,6 +78,12 @@ Process 2 executed from 10 to 14
 Gantt Chart:
 P1(10) P2(4) P3(5) P4(3) P5(2)
 ```
+
+#### 📸 Screenshots
+
+![FCFS 1](fcfs.png)  
+![FCFS 2](fcfs2.png)
+
 ---
 
 ## 📄 Project Report
@@ -112,7 +115,8 @@ The detailed write-up and documentation for the FCFS project are available here:
 ## 👨‍💻 Author
 
 **Pankaj**  
-> B.E. CSE @ Thapar University  
+> B.E. CSE @ Thapar University
+> pankajsheokand2005@gmail.com 
 > Data Science Elective | DSA in C++
 
 ---
@@ -128,5 +132,3 @@ The detailed write-up and documentation for the FCFS project are available here:
 
 📬 Feel free to explore and reach out if you have suggestions or ideas to improve these projects!
 ```
-
----
