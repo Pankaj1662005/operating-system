@@ -33,6 +33,8 @@ chmod +x atm.sh
 #### 📸 Screenshots
 
 ![ATM System](unnamed.png)
+![FCFS 1](fcfs.png)  
+![FCFS 2](fcfs2.png)
 
 ---
 
@@ -79,12 +81,6 @@ Process 2 executed from 10 to 14
 Gantt Chart:
 P1(10) P2(4) P3(5) P4(3) P5(2)
 ```
-
-#### 📸 Screenshots
-
-![FCFS 1](fcfs.png)  
-![FCFS 2](fcfs2.png)
-
 ---
 
 ## 📄 Project Report
